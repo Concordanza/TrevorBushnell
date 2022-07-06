@@ -13,7 +13,7 @@ Check out any of these resources that I have pubicly available:
 I have done very basic projects in my studies where I analyze [my own typing data](https://github.com/TrevorBushnell/MonkeyType-Data-Project) and predict the results of [League of Legends games](https://github.com/TrevorBushnell/League-Game-Prediction-Project). 
 
 #### Other Projects
-I occasionally develop on projects for the speedrunning community, including simple bingo generators and trackers for speedruns. 
+I occasionally develop on projects for the speedrunning community, including simple bingo generators and trackers for speedruns. Additionally, I'm building some applications and projects around [self sovereign identity (SSI)](https://trinsic.id/what-is-self-sovereign-identity/), which is an up-and-coming identity technology that can change the way that we use our identities online. I use [Trinsic's APIs](https://trinsic.id/) to build these applications. 
 
 #### LinkedIn
 
